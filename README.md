@@ -29,7 +29,7 @@ The goal for the project is for the to collect as many yellow bananas as possibl
 ### Quick Start Guide to Deep Reinforcement Learning
 To understand this implementation you will have to have some understanding of Deep Reinforcement Learning. I provide write-up of my implementation in the <insert report.pdf>. However i recommend reading > [Reinforcement learning](https://skymind.ai/wiki/deep-reinforcement-learning).
 
-At a high-level Deep Reinformcement Learning is the science behind developing goal-oriented algorithms, which learn how to attain a complex goal from a blank slate. [AlphaGo] (https://deepmind.com/blog/alphago-zero-learning-scratch/)  is a famous example of how Deep Reinforcement Learning achieve superhuman performance and defeated the world champion. 
+At a high-level Deep Reinformcement Learning is the science behind developing goal-oriented algorithms, which learn how to attain a complex goal from a blank slate. [AlphaGo](https://deepmind.com/blog/alphago-zero-learning-scratch/)  is a famous example of how Deep Reinforcement Learning achieve superhuman performance and defeated the world champion. 
 
 This project implement a Value Based method called [Deep Q-Networks](https://deepmind.com/research/dqn/)
 
@@ -43,7 +43,7 @@ Note: The project environment for this pr4oject is similar to, but not identical
 ### Exploring the Environment 
 
 #### Step 1: Clone the DRLND Repository
-1. Configure your Python environment by following [instructions in the DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies). These instructions can be found in the [Readme.md] (https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Readme.md)
+1. Configure your Python environment by following [instructions in the DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies). These instructions can be found in the [Readme.md](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Readme.md)
 1. By following the instructions you will have PyTorch, the ML-Agents toolkits, and all the Python packages required to complete the project.
 1. (For Windows users) The ML-Agents toolkit supports Windows 10. It has not been test on older version but it may work.
 
@@ -68,7 +68,7 @@ After you have followed the instructions above, open Navigation.ipynb (located i
 #### (Optional) Build your Own Environment
 For this project, we have built the Unity environment for you, and you must use the environment files that we have provided.
 
-If you are interested in learning to build your own Unity environments after completing the project, you are encouraged to follow the instructions [here] (https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md), which walk you through all of the details of building an environment from a Unity scene.
+If you are interested in learning to build your own Unity environments after completing the project, you are encouraged to follow the instructions [her(https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md), which walk you through all of the details of building an environment from a Unity scene.
 
 ### Train a agent
 There are 2 options for training the Agent:
